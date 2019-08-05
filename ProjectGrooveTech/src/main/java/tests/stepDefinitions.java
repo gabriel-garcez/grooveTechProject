@@ -134,7 +134,9 @@ public class stepDefinitions {
 		assertEquals("Welcome to your account. Here you can manage all of your personal information and orders.", m);
 		Screenshot.take(driver, "src\\main\\resources\\prints\\" +NameGenerator.GerarNome()+".png");
 		driver.close();
+		System.out.println("tudo certo");
 	}
+	
 
 	
 }
