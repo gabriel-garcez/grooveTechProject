@@ -15,6 +15,7 @@ public class AuthenticationPage extends BasePage {
 	    return this;
 	}
 	
+	//test_git
 	public AuthenticationPage clickButton(){
 		driver.findElement(By.id("SubmitCreate")).click();
 		return this;
