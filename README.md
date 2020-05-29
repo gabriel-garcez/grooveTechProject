@@ -1,4 +1,4 @@
-# grooveTechProject
+# selenium-cucumber
 
 To execute the project just import it to your machine and run it. The Chrome driver is inside the project itself. Remembering that your machine must contain Maven, Jdk or jre and some IDE to import the project.
 
