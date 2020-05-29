@@ -1,9 +1,7 @@
 # grooveTechProject
 
-Para executar o projeto basta importá-lo para sua máquina e roda-lo. O driver do Chrome está dentro do próprio projeto. Lembrando que sua máquina deve conter o Maven, Jdk ou jre e alguma IDE para importar o projeto.
+To execute the project just import it to your machine and run it. The Chrome driver is inside the project itself. Remembering that your machine must contain Maven, Jdk or jre and some IDE to import the project.
 
-O projeto está na linguagem de programação Java.
+The project is in the Java programming language.
 
-Desafio 01 - WebSite: Está fazendo  o cadastro e validação no site com sucesso utilizando a metodologia BDD com cucumber e validação de testes com Junit. O conceito de PageObjects está sendo utilizado e a geração dinâmica de dados está sendo feita com JFairy, portanto sinta-se a vontade para rodar quantas vezes quiser sem duplicidade. A escolhe aleatória de opções de com boxes, checkboxes e radios também está sendo aplicada. Além disso adicionei uma classe para gerar um print para evidência de teste após a validação, o print está sendo salva dentro da pasta resources/print.
-
-Desafio 02 - WebService: O método e a validação estão sendo executados com sucesso. o diferencial com a aplicação das condições especificadas também está incluso. Validação de testes com JUnit.
+Challenge 01 - WebSite: It is successfully registering and validating the website using the BDD methodology with cucumber and validating tests with Junit. The concept of PageObjects is being used and dynamic data generation is being done with JFairy, so feel free to run as many times as you want without duplication. The random choice of options with boxes, checkboxes and radios is also being applied. In addition I added a class to generate a print for test evidence after validation, the print is being saved inside the resources / print folder.
